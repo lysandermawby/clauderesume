@@ -15,7 +15,7 @@ chmod +x clauderesume.sh
 To use this script anywhere in your system, consider adding an alias to your `~/.zshrc` or `~/.bashrc` file as appropriate.
 
 ```bash
-alias tldfree='/path/to/clauderesume/clauderesume.sh' 
+alias clauderesume='/path/to/clauderesume/clauderesume.sh' 
 ```
 
 ## Functionality
